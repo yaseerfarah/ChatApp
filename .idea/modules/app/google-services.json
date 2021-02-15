@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "863305573707",
+    "project_id": "chatapp-74ec9",
+    "storage_bucket": "chatapp-74ec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863305573707:android:12949bbb6f29c84903b4ce",
+        "android_client_info": {
+          "package_name": "eg.com.invive.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863305573707-01cobvef9b79kfvppcr6fo0cr8kr2t9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eg.com.invive.chatapp",
+            "certificate_hash": "4ce72b1271f7bde542269b27fd7922b203b76197"
+          }
+        },
+        {
+          "client_id": "863305573707-kk8sk1qbg5807clhsjct8kk3ds6uflvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAngVlaA-LvE64AZLivlo1agyTYXM1AG-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863305573707-kk8sk1qbg5807clhsjct8kk3ds6uflvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
